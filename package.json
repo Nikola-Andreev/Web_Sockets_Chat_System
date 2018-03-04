@@ -1,0 +1,15 @@
+{
+  "name": "web_sockets_chat_system",
+  "version": "1.0.0",
+  "description": "Web sockets example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikola Andreev",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^9.5.0",
+    "websocket": "^1.0.25"
+  }
+}
